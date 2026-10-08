@@ -28,7 +28,7 @@ An empirical machine learning study developed for **CS 178 (Machine Learning)** 
 
 | Decision Tree Complexity (Depth vs. Accuracy) | Confusion Matrix Analysis |
 | :---: | :---: |
-| ![Depth vs Accuracy Plot](depth_accuaracy_plot.png) | ![Confusion Matrix](confusion_mat.png) |
+| ![Depth vs Accuracy Plot](depth_accuracy_plot.png) | ![Confusion Matrix](confusion_mat.png) |
 
 ---
 
