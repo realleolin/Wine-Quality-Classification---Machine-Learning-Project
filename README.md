@@ -43,6 +43,3 @@
 * **Decision Tree:** Reached **0.6037** test accuracy, outperforming linear models while enabling direct feature attribution.
 * **Neural Network (MLP):** Scored **0.6000**, capturing nonlinear relationships but constrained by tabular dataset size.
 * **Logistic Regression:** Scored **0.5600**, serving as the lowest-performing baseline due to linear boundary constraints on multiclass physicochemical space.
-
-
-echo "" >> README.md
